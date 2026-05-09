@@ -1,11 +1,13 @@
-# Enrique Santibáñez
+# Enrique Santibáñez Cortés
 
-Data scientist & security enthusiast from México.
+Data Scientist · Ciudad de México
 
-Working with Python, ML, cloud (AWS/Azure), and Linux. Interested in applied AI and security.
+Data Scientist Expert en **BBVA México** desde 2022, construyendo sistemas end-to-end de detección de anomalías y modelos de riesgo en producción. Maestría en Cómputo Estadístico por **CIMAT** con publicaciones en NLP.
+
+Especializado en MLOps, series de tiempo y análisis de fraude. Stack principal: Python, PySpark, AWS (SageMaker/S3/EC2), MLflow, Docker.
 
 ---
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/enrique-santib%C3%A1%C3%B1ez-039044168/) &nbsp;·&nbsp; [Twitter](https://twitter.com/enriqesc) &nbsp;·&nbsp; [Kaggle](https://kaggle.com/enriquesec)
+**Links:** [LinkedIn](https://www.linkedin.com/in/enrique-santib%C3%A1%C3%B1ez-039044168/) &nbsp;·&nbsp; [Twitter](https://twitter.com/enriqesc) &nbsp;·&nbsp; [Kaggle](https://kaggle.com/enriquesec)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=enriquesec&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/enriquesec)

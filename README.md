@@ -8,6 +8,6 @@ Especializado en MLOps, series de tiempo y análisis de fraude. Stack principal:
 
 ---
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/enrique-santib%C3%A1%C3%B1ez-039044168/) &nbsp;·&nbsp; [Twitter](https://twitter.com/enriqesc) &nbsp;·&nbsp; [Kaggle](https://kaggle.com/enriquesec)
+**Links:** [LinkedIn](https://www.linkedin.com/in/enrique-santib%C3%A1%C3%B1ez-039044168/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=enriquesec&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/enriquesec)
+[![Python](https://skillicons.dev/icons?i=py,aws,docker,git,linux,bash)](https://skillicons.dev)

@@ -8,4 +8,4 @@ Working with Python, ML, cloud (AWS/Azure), and Linux. Interested in applied AI 
 
 **Reach me:** enriquesec@gmail.com &nbsp;·&nbsp; [Twitter](https://twitter.com/enriqesc) &nbsp;·&nbsp; [Kaggle](https://kaggle.com/enriquesec)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=enriquesec&layout=compact&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=enriquesec&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/enriquesec)
